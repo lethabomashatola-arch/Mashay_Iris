@@ -9,8 +9,8 @@
   <p align="center">
     Learning, Experimenting and building one project at a time.</p>
   <head></head>
-<title> Aspiring Developer | Exploring Data, AI and Creative Technology
-Portfolio  </title>
+Aspiring Developer | Exploring Data, AI and Creative Technology
+Portfolio  
 <Body>
 
 <p>I`m a student and aspiring developer interested in the intersection of technology, creativity and problem-silving.
