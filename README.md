@@ -8,9 +8,9 @@
   <h1 align="center"> Welcome to my Archive</h1>
   <p align="center">
     Learning, Experimenting and building one project at a time.</p>
-  <head>
-Aspiring Developer | Exploring Data, AI and Creative Technology</head>  
-<title>Portfolio  </title>
+  <head></head>
+<title> Aspiring Developer | Exploring Data, AI and Creative Technology
+Portfolio  </title>
 <Body>
 
 <p>I`m a student and aspiring developer interested in the intersection of technology, creativity and problem-silving.
